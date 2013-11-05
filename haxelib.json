@@ -4,10 +4,10 @@
   "license" : "MIT",
   "tags" : ["ui", "cross", "openfl"],
   "description" : "A simple UI library",
-  "version" : "1.1.2",
+  "version" : "1.1.3",
   "releasenote" : "Added ability for updating component position in a BorderLayout",
   "contributors" : ["cobrajs"], 
   "dependencies" : {
-    "openfl" : "1.0.2"
+    "openfl" : "1.1.0"
   }
 }
